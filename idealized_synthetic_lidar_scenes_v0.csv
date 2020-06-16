@@ -1,0 +1,5 @@
+Name,x0 (hori start),x1 (hori stop),S (lidar ratio),y0 (vert base),y1 (vert top),OD0 (opt dep start),OD1 (opt dep end),total_x_km = 3330,dx_m = 350,top_alt_km = 30,bot_alt_km = 0.0,dy_m = 30
+smoke1,0,0.333333,70,0,2,0.1,1.5,,,,,
+cirrus1,0.166665,0.5,28,10,12,0.03,3,NOTE: Horizontal distance coordinates are normalized to 1,,,,
+cirrus2,0.5,0.8333333,28,11,12,3,0.03,,,,,
+dust1,0.666667,1,45,1,4,0.1,1.5,,,,,
